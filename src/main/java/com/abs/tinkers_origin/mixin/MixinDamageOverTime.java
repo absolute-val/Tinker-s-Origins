@@ -27,7 +27,7 @@ import java.util.Collection;
 import java.util.Map;
 import java.util.logging.Logger;
 
-@Mixin(value = DamageOverTimePower.class,remap = false)
+@Mixin(value = DamageOverTimePower.class, remap = false)
 public abstract class MixinDamageOverTime {
     @Inject(
             method = "getProtection(Lio/github/edwinmindcraft/apoli/common/power/configuration/DamageOverTimeConfiguration;Lnet/minecraft/world/entity/Entity;)I",

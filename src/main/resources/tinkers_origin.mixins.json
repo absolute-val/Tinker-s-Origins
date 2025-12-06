@@ -3,7 +3,10 @@
   "minVersion": "0.8.5",
   "package": "com.abs.tinkers_origin.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": ["MixinDamageOverTime"],
+  "mixins": [
+    "MixinDamageOverTime",
+    "MixinArmorValue"
+  ],
   "injectors": {
     "defaultRequire": 1
   },
