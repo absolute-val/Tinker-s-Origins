@@ -1,6 +1,7 @@
 {
   "modifier.tinkers_origin": {
     "__upgrades__": null,
-    "water_protection": "#72A498"
+    "water_protection": "#72A498",
+    "sunscreen": "#DCD9C0"
   }
 }

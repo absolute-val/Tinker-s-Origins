@@ -1,11 +1,21 @@
 {
-  "type": "tconstruct:incremental_modifier",
+  "type": "tconstruct:modifier",
   "allow_crystal": true,
   "amount_per_item": 1,
-  "input": {
-    "item": "minecraft:tropical_fish"
+  "inputs": [
+    {
+      "item": "tconstruct:ichor_slime_crystal"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "tconstruct:ichor_slime_crystal"
+    }
+  ],
+  "level": {
+    "max": 5
   },
-  "needed_per_level": 5,
   "result": "tinkers_origin:water_protection",
   "slots": {
     "upgrades": 1

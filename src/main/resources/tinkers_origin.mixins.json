@@ -4,8 +4,10 @@
   "package": "com.abs.tinkers_origin.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "MixinArmorValue",
     "MixinDamageOverTime",
-    "MixinArmorValue"
+    "MixinExposeToSun",
+    "MixinPlayerWaterSensitive"
   ],
   "injectors": {
     "defaultRequire": 1

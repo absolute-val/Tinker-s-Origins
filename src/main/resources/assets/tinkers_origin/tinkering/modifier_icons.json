@@ -1,3 +1,4 @@
 {
-  "tinkers_origin:water_protection": "tinkers_origin:gui/modifiers/armor/water_protection"
+  "tinkers_origin:water_protection": "tinkers_origin:gui/modifiers/armor/water_protection",
+  "tinkers_origin:sunscreen": "tinkers_origin:gui/modifiers/armor/sunscreen"
 }

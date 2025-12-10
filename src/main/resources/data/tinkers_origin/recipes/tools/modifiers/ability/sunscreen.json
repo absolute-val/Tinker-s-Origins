@@ -1,0 +1,32 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "amount_per_item": 1,
+  "inputs": [
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    }
+  ],
+  "level": 1,
+  "result": "tinkers_origin:sunscreen",
+  "slots": {
+    "abilities": 1
+  },
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable/armor/helmets"
+    }
+  ]
+}

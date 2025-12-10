@@ -1,5 +1,8 @@
 {
   "modifier.tinkers_origin.water_protection": "防水",
-  "modifier.tinkers_origin.water_protection.description": "延缓来自恐水的伤害",
-  "modifier.tinkers_origin.water_protection.flavor": "超便利护手霜！"
+  "modifier.tinkers_origin.water_protection.description": "延缓来自恐水的伤害。",
+  "modifier.tinkers_origin.water_protection.flavor": "超便利护手霜！",
+  "modifier.tinkers_origin.sunscreen": "防晒",
+  "modifier.tinkers_origin.sunscreen.description": "防止你被日光点燃，但会逐渐消耗头盔的耐久。",
+  "modifier.tinkers_origin.sunscreen.flavor": "超清凉防晒霜！"
 }
